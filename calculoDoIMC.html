@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cálculo de Preço Total</title>
+    <title>Calculo de Massa Corporal</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -35,7 +35,8 @@
 
 <body>
     <div class="container">
-        <h2>IMC</h2>
+        <h1>IMC</h1>
+        <h5>Indice de Massa Corporal</h5>
 
         <label>Peso: </label>
         <input type="number" id="peso" value="" placeholder="Digite seu peso"><br>
@@ -55,7 +56,7 @@
             
             let imc = peso / (altura * altura);
            
-            document.getElementById("resultadoImc").innerText = imc;
+            document.getElementById("resultadoImc").innerText = imc.toFixed(2);
         }
     </script>
 </body>
