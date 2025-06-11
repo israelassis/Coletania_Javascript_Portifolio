@@ -16,7 +16,7 @@
     <button id="mudar-cor-btn" onclick="mudarCor()">Mudar Cor!</button>
 
     <script>
-      const cores = ["white", "green", "yellow", "pink", "red", "black"]; //array de cores
+      const cores = ["white", "green", "yellow", "pink", "red", "black"]; //array de cores - 6 cores
       let indiceCorAtual = 0; //iniciar na primeira cor - white
       const mudarCorBtn = document.getElementById("mudar-cor-btn");
 
@@ -32,8 +32,8 @@
             indiceCorAtual++;
 
             // 4. Verifica se o índice excedeu o tamanho do array e o reseta
-            if (indiceCorAtual >= cores.length) {
-                indiceCorAtual = 0; // Volta para a primeira cor do array
+            if (indiceCorAtual >= cores.length) { //if verifica se o indiceCorAtual atingiu o final do array - 6 cores
+                indiceCorAtual = 0; // Volta para a primeira cor do array - O índice RESETA para a primeira array
             }
         }      
     </script>
