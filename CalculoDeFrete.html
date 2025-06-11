@@ -23,11 +23,31 @@
             <label for="frete">Frete</label>
             <input type="number" name="frete" id="frete" value="20">
             <br>
+            <h3>Total: R$ <span id="total">0.00</span></h3>
+            
         </div>
 <br>
             <button onclick="calcularTotal()">Calcular Total</button>
 
     </div>
+    <script>
+
+    //Variáveis para o calculo => Pegar valor do usuário
+    function calcularTotal(){
+    let preco = parseFloat(document.getElementById("preco").value); //valores decimais
+    let quantidade = parseInt(document.getElementById("quantidade").value); //converte para numero inteiro
+    let desconto = parseFloat(document.getElementById("desconto").value);
+    let frete = parseFloat(document.getElementById("frete").value);
     
+    
+        // Calculo
+        // Resumo => Valor do usuário > Calcular subtotal > Aplicar Desconto > Somar frete > Atualizar pagina
+        let subtotal = preco * quantidade;
+        let  valorDesconto = (subtotal * desconto) / 100;
+        let total = (subtotal - valorDesconto) + frete;
+
+        document.getElementById("total").innerText = total.toFixed(2);
+}
+    </script>
 </body>
 </html>
