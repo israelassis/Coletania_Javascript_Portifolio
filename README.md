@@ -1,6 +1,3 @@
-<img width="340em" src="https://github.com/user-attachments/assets/a2a8dc80-03c5-4597-9098-ff52d42e90a3"/>
-&nbsp
-&nbsp
 <img width="390em" src="https://github.com/user-attachments/assets/0c8a6c2c-bcd9-4371-b0ce-785d002d5d1f"/>
 
 <br>
@@ -8,12 +5,12 @@
 
 🚀&nbsp;`Portfólio JavaScript: Uma Jornada de Crescimento e Aprendizado Contínuo`
 
-Bem-vindo(a) ao meu Portfólio JavaScript! Este repositório é um testemunho da minha jornada contínua no desenvolvimento web, destacando especificamente o conhecimento que adquiri, as habilidades consolidadas e que estou ativamente aperfeiçoando, alem do meu compromisso com o aprendizado e a evolução contínuos no mundo dinâmico da programação.
+Bem-vindo(a) ao meu Portfólio JavaScript! Este repositório é uma incubadora de códigos brutos, um testemunho da minha jornada contínua no desenvolvimento web, destacando especificamente o conhecimento recente que adquiri, as novas habilidades incorporadas e que estarei ativamente aperfeiçoando, alem do meu compromisso com o aprendizado e a evolução contínuos no mundo dinâmico da programação.
 <br>
 <br>
 
 ✨&nbsp;`O Que Você Encontrará Aqui`
-Esta coleção apresenta uma variedade de projetos JavaScript, cada um projetado para demonstrar minha compreensão de conceitos essenciais e minha capacidade de aplicá-los em cenários práticos. Você verá exemplos de como abordo a resolução de problemas, estruturo o código e construo experiências web interativas. De exercícios fundamentais a aplicações mais complexas, cada projeto aqui representa um passo à frente na minha jornada de desenvolvimento.
+Esta coleção apresenta uma variedade de projetos JavaScript, cada um projetado para demonstrar minha compreensão de conceitos essenciais e minha capacidade de aplicá-los em cenários práticos. Você verá exemplos, algumas vezes criados da minha cabeça, outros aplicados atraves de video-aulas. De exercícios fundamentais a aplicações mais complexas, cada projeto aqui representa um passo à frente na minha jornada de desenvolvimento.
 <br>
 <br>
 
