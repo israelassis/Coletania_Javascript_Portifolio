@@ -1,11 +1,11 @@
 <div <div align="center">
 <img width="390em" src="https://github.com/user-attachments/assets/0c8a6c2c-bcd9-4371-b0ce-785d002d5d1f"/>
 
-🚀&nbsp;`Portfólio Iniciante:` Uma Jornada de Crescimento e Aprendizado Contínuo
+🚀&nbsp;`Transição de Carreira:` Uma Jornada de Crescimento e Aprendizado Contínuo
 </div>
 
 ---
-Bem-vindo(a) ao meu Portfólio JavaScript! Este repositório é uma incubadora de códigos brutos, um testemunho da minha jornada contínua no desenvolvimento web, destacando especificamente o conhecimento recente que adquiri, as novas habilidades incorporadas e que estarei ativamente aperfeiçoando, alem do meu compromisso com o aprendizado e a evolução contínuos no mundo dinâmico da programação.
+Bem-vindo(a) ao meu Portfólio de Inicio de Carreira! Este repositório é uma incubadora de códigos brutos, um testemunho da minha jornada contínua no desenvolvimento web, destacando especificamente o conhecimento recente que adquiri, as novas habilidades incorporadas e que estarei ativamente aperfeiçoando, alem do meu compromisso com o aprendizado e a evolução contínuos no mundo dinâmico da programação.
 <br>
 <br>
 
