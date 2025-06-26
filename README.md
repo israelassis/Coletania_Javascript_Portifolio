@@ -1,7 +1,7 @@
 <div <div align="center">
 <img width="390em" src="https://github.com/user-attachments/assets/0c8a6c2c-bcd9-4371-b0ce-785d002d5d1f"/>
 
-🚀&nbsp;`Portfólio Iniciante: Uma Jornada de Crescimento e Aprendizado Contínuo
+🚀&nbsp;`Portfólio Iniciante:` Uma Jornada de Crescimento e Aprendizado Contínuo
 </div>
 
 ---
